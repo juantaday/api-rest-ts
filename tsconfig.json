@@ -9,3 +9,7 @@
     "outDir": "./dist"
   }
 }
+
+/*
+/*"build": "tsc"
+*/
